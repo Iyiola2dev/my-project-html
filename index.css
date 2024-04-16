@@ -1,0 +1,18 @@
+main{
+    background-color: antiquewhite;
+    color: gold;
+    margin: 10px;
+}
+
+header{
+    background-color: aqua;
+    color: pink;
+    margin: 20px;
+    padding: 10px;
+}
+
+footer{
+    background-color: aqua;
+    color: pink;
+    margin: 20px;
+}
